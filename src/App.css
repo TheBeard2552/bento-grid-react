@@ -1,0 +1,19 @@
+/* src/App.css */
+
+.app-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Horizontally center */
+    justify-content: center; /* Vertically center */
+    min-height: 100vh; /* Full viewport height */
+    background-color: #e0e0e0; /* Optional: Background color for contrast */
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .app-container h1 {
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+  }
+  
